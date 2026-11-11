@@ -20,6 +20,6 @@ This compares the 13 course titles printed on the certificate with the files in 
 
 ## Completeness finding
 
-This repository is **not a complete archive of the certificate classwork**. It contains selected ML and computer-vision demonstrations, but the geospatial capstone is currently a plan and the six generative-AI/LLM/agent courses have no related artifacts here. It does not contain the learner's original work for all 13 courses.
+This repository is **not a complete archive of the certificate classwork**. It contains selected ML and computer-vision demonstrations, but the geospatial capstone is currently a plan and the seven generative-AI/LLM/agent courses have no related artifacts here. It does not contain the learner's original work for all 13 courses.
 
 To archive the actual classwork, the original learner-authored notebooks, model code, project files, reports, or other saved submissions are needed. Keep the repository's existing distinction between retrospective projects and Coursera submissions. Add only files you are permitted to publish; do not add course-provided starter code, private assessments, or answer keys unless their terms allow redistribution.
