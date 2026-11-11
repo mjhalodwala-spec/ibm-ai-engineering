@@ -2,6 +2,14 @@
 
 Independent portfolio artifacts mapped to the publicly listed IBM AI Engineering Professional Certificate courses. Created retrospectively after certification; these are not recovered, submitted, or graded Coursera assignments. No course-only starter code, solutions, or private lab content is included.
 
+## Certificate
+
+[IBM AI Engineering Professional Certificate](https://coursera.org/verify/professional-cert/A4X2ZQDQWP78) · 13 courses · completed October 2, 2026 · [view certificate image](certificates/ibm-ai-engineering.jpeg).
+
+## Course coverage
+
+See [COURSE_COVERAGE.md](COURSE_COVERAGE.md) for a course-by-course comparison of the certificate list with repository files. Related portfolio work is not the original classwork.
+
 ## Projects
 
 - [`projects/ml-baselines/`](projects/ml-baselines/): supervised classification and evaluation using scikit-learn.
